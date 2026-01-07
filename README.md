@@ -1,2 +1,2 @@
 # informat2
-all known directories of informat2.pl and informat2.myftp.org
+all known directories of http://informat2.pl/ and http://informat2.myftp.org/
