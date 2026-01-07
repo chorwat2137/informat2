@@ -1,2 +1,4 @@
 # informat2
-all known directories of http://informat2.pl/ and http://informat2.myftp.org/
+## the best website on the internet
+known stuff about http://informat2.pl/ and http://informat2.myftp.org/
+Includes ports and directories
