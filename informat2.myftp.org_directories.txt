@@ -56,3 +56,7 @@ http://informat2.myftp.org/can (Status: 412) [Size: 233]
 http://informat2.myftp.org/canada (Status: 412) [Size: 233]
 
 // informat2.myftp.org has some sort of anti-ddos measures and it shuts down after too many pings - hence most of the directories are still unknown
+
+// found by hand
+
+http://informat2.myftp.org/89
