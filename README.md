@@ -8,6 +8,6 @@ http://informat3.myftp.org
 
 Includes ports and directories
 
-// status guide:
-// 200 - OK
-// 403 - Forbidden
+status guide:
+- 200 - OK
+- 403 - Forbidden
