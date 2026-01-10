@@ -1,4 +1,4 @@
-# all known directories of informat2.pl
+# known directories of http://informat2.pl
 
 ## commons.txt
 

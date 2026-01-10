@@ -1,0 +1,29 @@
+# http://informat2.pl
+
+| PORT     | STATE | SERVICE | VERSION |
+|----------|:-----:|:-------:|:--------|
+| 21/tcp   | open  | ftp     | ProFTPD |
+| 22/tcp   | open  | ssh     | OpenSSH 8.4p1 Debian 5+deb11u5 (protocol 2.0) |
+| 80/tcp   | open  | http    | Apache httpd 2.4.65 ((Debian)) |
+| 1935/tcp | open  | rtmp?   |  |
+| 8080/tcp | open  | http    | nginx 1.17.3 |
+
+# http://informat2.myftp.org
+
+| PORT      | STATE  | SERVICE  | VERSION |
+|-----------|:------:|:--------:|:--------|
+| 20/tcp    | closed | ftp-data |  |
+| 21/tcp    | open   | ftp      | ProFTPD |
+| 25/tcp    | open   | smtp     | Exim smtpd 4.98.2 |
+| 53/tcp    | closed | domain   |  |
+| 80/tcp    | open   | http     | Apache httpd |
+| 110/tcp   | open   | pop3     | Dovecot pop3d |
+| 143/tcp   | open   | imap     | Dovecot imapd |
+| 443/tcp   | open   | ssl/http | Apache httpd |
+| 465/tcp   | open   | ssl/smtp | Exim smtpd 4.98.2 |
+| 587/tcp   | open   | smtp     | Exim smtpd 4.98.2 |
+| 993/tcp   | open   | ssl/imap | Dovecot imapd |
+| 995/tcp   | open   | ssl/pop3 | Dovecot pop3d |
+| 2000/tcp  | open   | ssl/http | Golang net/http server (robots.txt) |
+| 2022/tcp  | open   | ssh      | OpenSSH 8.0 (protocol 2.0) |
+| 35500/tcp | closed | unknown  |  |

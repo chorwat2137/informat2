@@ -1,4 +1,4 @@
-# informat2.myftp.org directory archive
+# http://informat2.myftp.org directory archive
 from https://web.archive.org
 
 > [!CAUTION]
