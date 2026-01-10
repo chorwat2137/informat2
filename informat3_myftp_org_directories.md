@@ -1,4 +1,4 @@
-# known directories of http://informat3.mtftp.org
+# known directories of http://informat3.myftp.org
 
 ## common.txt
 
