@@ -1,6 +1,5 @@
 # informat
 ## the best website on the internet
-known stuff about
 
 | Site  | Directories |
 | ------------- | :-------------: |
