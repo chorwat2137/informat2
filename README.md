@@ -3,7 +3,7 @@
 known stuff about
 
 http://informat2.pl/  
-http://informat2.myftp.org/ | [Active links](docs/CONTRIBUTING.md) | [Archive](informat2_myftp_org_archive.md) |  
+http://informat2.myftp.org/ | [Active links](#) | [Archive](/informat2_myftp_org_archive.md) |  
 http://informat3.myftp.org  
 
 Includes ports and directories
