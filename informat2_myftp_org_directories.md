@@ -60,4 +60,5 @@
 
 ## found by hand
 
-http://informat2.myftp.org/89
+- http://informat2.myftp.org/89
+- http://informat2.myftp.org/kolo
